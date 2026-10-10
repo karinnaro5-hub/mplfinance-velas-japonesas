@@ -19,5 +19,5 @@ mpf.plot(
     xlabel = "días",
     ylabel = "Precios en USD",
     title = "Precios y volumen de una acción",
-    
+    savefig = "imagenes/velas_acciones_empresa.png",
 )

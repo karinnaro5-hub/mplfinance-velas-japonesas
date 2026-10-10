@@ -50,5 +50,6 @@ mpf.plot(
     figsize=(12, 6),
     title="Precio de la acción",
     ylabel="Precio en $",
-    xlabel="Volumen"
+    xlabel="Volumen",
+    savefig="imagenes/velas_intradia.png",
 )
